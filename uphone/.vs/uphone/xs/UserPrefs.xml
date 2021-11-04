@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4DAC8F64-85BE-499F-B4BA-9DD5D49E9507}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="uphone/CallPage.xaml">
+    <Files>
+      <File FileName="uphone/App.xaml.cs" Line="13" Column="39" />
+      <File FileName="uphone/CallPage.xaml" Line="34" Column="1" />
+      <File FileName="uphone/CallPage.xaml.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="uphone" expanded="True">
+            <Node name="uphone" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="CallPage.xaml" selected="True" />
+            </Node>
+            <Node name="uphone.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.uphone.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.uphone.iOS FirstBuild="True" />
+</Properties>
