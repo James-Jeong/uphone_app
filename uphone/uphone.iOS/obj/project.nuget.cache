@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cVzO5cml5XQP5TDQ5R1aqRKnpudjzh0ThcEWFbSV50GPopi7Re+xKwwW1e1GC6fS7Em5C6y5z5DPKXUNaNJYjw==",
+  "dgSpecHash": "RqBJxz7PxDJd+F5mDJ4Bl1un8/GCaNB5wu/rC7nxw/Q2CXU6cvPjPGdG0+yENy3ws/PxD5ophsDsm1Ggb+yXTw==",
   "success": true,
-  "projectFilePath": "/Users/jamesj/uphone_ios/uphone/uphone/uphone.iOS/uphone.iOS.csproj",
+  "projectFilePath": "/Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone.iOS/uphone.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/jamesj/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/jamesj/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",

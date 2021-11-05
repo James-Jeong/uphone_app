@@ -9,8 +9,7 @@ namespace uphone
         {
             InitializeComponent();
 
-            //MainPage = new AppShell();
-            MainPage = new CallPage();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()

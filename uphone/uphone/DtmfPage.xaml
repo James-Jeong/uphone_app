@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="uphone.DtmfPage">
+    <ContentPage.Content>
+        <Grid Padding="40" RowSpacing="10" ColumnSpacing="10">
+        
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="0" Grid.ColumnSpan="3" FontSize="40" HorizontalTextAlignment="Center" TextColor="White" Text="01012345678"></Label>
+            <Button Grid.Row="1" Grid.Column="0" FontSize="30" TextColor="#28282C" BackgroundColor="#FFF" BorderRadius="30" Text="1"></Button>
+            <Button Grid.Row="1" Grid.Column="1" FontSize="30" TextColor="#28282C" BackgroundColor="#FFF" BorderRadius="30" Text="2"></Button>
+            <Button Grid.Row="1" Grid.Column="2" FontSize="30" TextColor="#28282C" BackgroundColor="#FFF" BorderRadius="30" Text="3"></Button>
+            <Button Grid.Row="2" Grid.Column="0" FontSize="30" TextColor="#28282C" BackgroundColor="#FFF" BorderRadius="30" Text="4"></Button>
+            <Button Grid.Row="2" Grid.Column="1" FontSize="30" TextColor="#28282C" BackgroundColor="#FFF" BorderRadius="30" Text="5"></Button>
+            <Button Grid.Row="2" Grid.Column="2" FontSize="30" TextColor="#28282C" BackgroundColor="#FFF" BorderRadius="30" Text="6"></Button>
+            <Button Grid.Row="3" Grid.Column="0" FontSize="30" TextColor="#28282C" BackgroundColor="#FFF" BorderRadius="30" Text="7"></Button>
+            <Button Grid.Row="3" Grid.Column="1" FontSize="30" TextColor="#28282C" BackgroundColor="#FFF" BorderRadius="30" Text="8"></Button>
+            <Button Grid.Row="3" Grid.Column="2" FontSize="30" TextColor="#28282C" BackgroundColor="#FFF" BorderRadius="30" Text="9"></Button>
+            <Button Grid.Row="4" Grid.Column="0" FontSize="30" TextColor="#28282C" BackgroundColor="#FFF" BorderRadius="30" Text="*"></Button>
+            <Button Grid.Row="4" Grid.Column="1" FontSize="30" TextColor="#28282C" BackgroundColor="#FFF" BorderRadius="30" Text="0"></Button>
+            <Button Grid.Row="4" Grid.Column="2" FontSize="30" TextColor="#28282C" BackgroundColor="#FFF" BorderRadius="30" Text="#"></Button>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

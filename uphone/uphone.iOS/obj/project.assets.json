@@ -996,11 +996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jamesj/uphone_ios/uphone/uphone/uphone.iOS/uphone.iOS.csproj",
+      "projectUniqueName": "/Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone.iOS/uphone.iOS.csproj",
       "projectName": "uphone.iOS",
-      "projectPath": "/Users/jamesj/uphone_ios/uphone/uphone/uphone.iOS/uphone.iOS.csproj",
+      "projectPath": "/Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone.iOS/uphone.iOS.csproj",
       "packagesPath": "/Users/jamesj/.nuget/packages/",
-      "outputPath": "/Users/jamesj/uphone_ios/uphone/uphone/uphone.iOS/obj/",
+      "outputPath": "/Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1015,8 +1015,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/jamesj/uphone_ios/uphone/uphone/uphone/uphone.csproj": {
-              "projectPath": "/Users/jamesj/uphone_ios/uphone/uphone/uphone/uphone.csproj"
+            "/Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone/uphone.csproj": {
+              "projectPath": "/Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone/uphone.csproj"
             }
           }
         }

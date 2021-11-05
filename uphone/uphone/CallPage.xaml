@@ -4,11 +4,14 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     x:Class="uphone.CallPage">
     <ContentPage.Content>
-                <StackLayout>
+        <StackLayout>
             <StackLayout>
-                <Button Text="ON" />
-                <Button Text="OFF" />
-                <Button Text="EXIT" />
+                <Button Text="ON"
+                        Clicked="OnButtonClicked"/>
+                <Button Text="OFF"
+                        Clicked="OffButtonClicked"/>
+                <Button Text="EXIT"
+                        Clicked="ExitButtonClicked"/>
             </StackLayout>
             <StackLayout>
                 <Editor />
@@ -20,14 +23,6 @@
             <StackLayout>
                 <Editor />
             </StackLayout>
-            <Grid>
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="*" />
-                </Grid.ColumnDefinitions>
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="*" />
-                </Grid.RowDefinitions>
-            </Grid>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

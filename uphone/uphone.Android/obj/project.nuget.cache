@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MwdfvN/DNEmoXwY6xnxoI7/xDG8tam2QNf6dS43h01kW/l+4xJTuUDiO/qkbzCq8O82WT2Ced3puUZsfLzHCUg==",
+  "dgSpecHash": "FVaqiFoHMivPWnpIDq7d0R8fG1nGjM8v1KG4tSw1YO2T0SpXiJPiTWXzzao/bs/s/mzl/djOifgdl7zjGWfEDA==",
   "success": true,
-  "projectFilePath": "/Users/jamesj/uphone_ios/uphone/uphone/uphone.Android/uphone.Android.csproj",
+  "projectFilePath": "/Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone.Android/uphone.Android.csproj",
   "expectedPackageFiles": [
     "/Users/jamesj/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/jamesj/.nuget/packages/xamarin.androidx.activity/1.1.0.5/xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

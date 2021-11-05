@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ijeV2iSzS735RNT00GX95ZdxKFEdzyRgWgKhJibqPegrXRO6icaSO7RewMux6ycu333SgTiN/18Ei9NYToWGSQ==",
+  "dgSpecHash": "+NtDgTCp/5+jgKSupYcz/QSOm+kjlNa6weBwrP9bE1Q0TyoVGBAf0mU3A6yPqccnrwPRDmXDGWJ9Bsgr6xcZ1w==",
   "success": true,
-  "projectFilePath": "/Users/jamesj/uphone_ios/uphone/uphone/uphone/uphone.csproj",
+  "projectFilePath": "/Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone/uphone.csproj",
   "expectedPackageFiles": [
     "/Users/jamesj/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/jamesj/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
