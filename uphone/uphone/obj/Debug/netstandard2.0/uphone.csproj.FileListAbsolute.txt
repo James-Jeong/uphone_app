@@ -21,7 +21,6 @@
 /Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone/obj/Debug/netstandard2.0/uphone.GeneratedMSBuildEditorConfig.editorconfig
 /Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone/obj/Debug/netstandard2.0/CallPage.xaml.g.cs
-/Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone/obj/Debug/netstandard2.0/DtmfPage.xaml.g.cs
 /Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
 /Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone/obj/Debug/netstandard2.0/uphone.AssemblyInfoInputs.cache
 /Users/jamesj/GIT_PROJECTS/uphone_app/uphone/uphone/obj/Debug/netstandard2.0/uphone.AssemblyInfo.cs

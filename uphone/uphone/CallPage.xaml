@@ -3,26 +3,4 @@
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     x:Class="uphone.CallPage">
-    <ContentPage.Content>
-        <StackLayout>
-            <StackLayout>
-                <Button Text="ON"
-                        Clicked="OnButtonClicked"/>
-                <Button Text="OFF"
-                        Clicked="OffButtonClicked"/>
-                <Button Text="EXIT"
-                        Clicked="ExitButtonClicked"/>
-            </StackLayout>
-            <StackLayout>
-                <Editor />
-            </StackLayout>
-            <StackLayout>
-                <Button Text="REGISTER" />
-                <Button Text="CONTACT" />
-            </StackLayout>
-            <StackLayout>
-                <Editor />
-            </StackLayout>
-        </StackLayout>
-    </ContentPage.Content>
 </ContentPage>

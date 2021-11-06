@@ -17,14 +17,10 @@ namespace uphone
             CallPage callPage = new CallPage();
             callPage.Title = "call";
 
-            DtmfPage dtmfPage = new DtmfPage();
-            dtmfPage.Title = "dtmf";
-
             OptionPage optionPage = new OptionPage();
             optionPage.Title = "option";
 
             Children.Add(callPage);
-            Children.Add(dtmfPage);
             Children.Add(optionPage);
             //InitializeComponent();
         }

@@ -1,16 +1,9 @@
 ﻿<Properties StartupConfiguration="{4DAC8F64-85BE-499F-B4BA-9DD5D49E9507}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="uphone/CallPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="uphone/OptionPage.xaml.cs">
     <Files>
-      <File FileName="uphone/DtmfPage.xaml" Line="17" Column="1" />
-      <File FileName="uphone/DtmfPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="uphone/App.xaml" Line="1" Column="1" />
-      <File FileName="uphone/App.xaml.cs" Line="1" Column="1" />
-      <File FileName="uphone/MainPage.xaml" Line="4" Column="42" />
-      <File FileName="uphone/MainPage.xaml.cs" Line="26" Column="36" />
-      <File FileName="uphone/OptionPage.xaml" Line="10" Column="35" />
-      <File FileName="uphone/OptionPage.xaml.cs" />
-      <File FileName="uphone/CallPage.xaml" Line="7" Column="22" />
-      <File FileName="uphone/CallPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="uphone/OptionPage.xaml.cs" Line="106" Column="33" />
+      <File FileName="uphone/MainPage.xaml.cs" />
+      <File FileName="uphone/CallPage.xaml.cs" Line="45" Column="13" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,12 +11,11 @@
           <Node name="uphone" expanded="True">
             <Node name="uphone" expanded="True">
               <Node name="App.xaml" expanded="True" />
-              <Node name="CallPage.xaml" expanded="True">
-                <Node name="CallPage.xaml.cs" selected="True" />
-              </Node>
-              <Node name="DtmfPage.xaml" expanded="True" />
+              <Node name="CallPage.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
-              <Node name="OptionPage.xaml" expanded="True" />
+              <Node name="OptionPage.xaml" expanded="True">
+                <Node name="OptionPage.xaml.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="uphone.Android" expanded="True" />
           </Node>
